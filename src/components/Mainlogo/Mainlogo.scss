@@ -1,0 +1,16 @@
+.container {
+    .main-logo {
+        margin: 4em 0;
+    }
+}
+
+@media (max-width:768px) {
+    .container {
+        .main-logo {
+            img {
+                transform: scale(0.6);
+                transform-origin: left;
+            }
+        }
+    }
+}

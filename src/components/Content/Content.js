@@ -1,5 +1,7 @@
 import React from 'react';
-import TitleWithCupbackground from './TitleWithCupbackground';
+import TitleWithCupbackground from '../TitleWithCupbackground';
+import './Content.scss';
+
 
 function Content() {
     return (
@@ -12,4 +14,5 @@ function Content() {
         </div>
     )
   }
-  export default Content;
+
+export default Content;

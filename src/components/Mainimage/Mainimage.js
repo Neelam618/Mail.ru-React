@@ -1,4 +1,5 @@
 import React from 'react';
+import './Mainimage.scss'
 
 function Mainimage() {
     return (
@@ -7,4 +8,5 @@ function Mainimage() {
       </div>
     )
   }
-  export default Mainimage;
+
+export default Mainimage;

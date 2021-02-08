@@ -1,0 +1,31 @@
+header {
+    .container {
+        font-size: 2rem;
+        color: #c2c3c5;
+        .line {
+            display: inline-block;
+            width: 30px;
+            height: 3px;
+            margin: 6px 0;
+            background-color: #c2c3c5;
+        }
+    }
+  }
+
+@media (max-width:768px) {
+
+    header {
+        .container {
+            .topbar {
+                .top-logo {
+                    transform: scale(0.7);
+                    transform-origin: left;
+                }
+                .top-content {
+                    transform: scale(0.7);
+                    transform-origin: right;
+                }
+            }
+        }
+    }
+}

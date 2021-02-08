@@ -1,6 +1,7 @@
 import React from 'react';
-import FootertxtRight from './FootertxtRight';
-import FootertxtLeft from './FootertxtLeft';
+import FootertxtRight from '../FootertxtRight/FootertxtRight';
+import FootertxtLeft from '../FootertxtLeft/FootertxtLeft';
+import './Footer.scss'
 
 function Footer() {
     return (

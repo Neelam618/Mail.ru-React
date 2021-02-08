@@ -1,4 +1,5 @@
 import React from 'react';
+import './Sideimage.scss'
 
 function Sideimage() {
     return (
@@ -7,4 +8,5 @@ function Sideimage() {
       </div>
     )
   }
-  export default Sideimage;
+
+export default Sideimage;

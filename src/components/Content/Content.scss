@@ -1,0 +1,38 @@
+.content {
+  color: white;
+  padding: 8em 0 0 80px;
+
+  .para {
+    width: 404px;
+    text-align: justify;
+    color: #e6e4e4;
+    margin-top: 5em;
+  }
+}  
+
+@media (max-width:1199px) {
+  .main {
+      .content {
+          padding: 8em 0 0 100px;
+      }
+  }
+}
+@media (max-width:992px) {
+  .main {
+      .content {
+          padding: 40px 40px 0 40px;
+          margin: 0 auto;
+          .para {
+              width: 80%;
+              margin: 2em auto 0 auto;
+          }
+      }
+  }
+}
+@media (max-width:768px) {
+  .main {
+      .content {
+        padding: 3em 0 0;
+      }
+  }
+}

@@ -9,4 +9,5 @@ function TitleWithCupbackground() {
       </div>
     )
   }
-  export default TitleWithCupbackground;
+
+export default TitleWithCupbackground;
