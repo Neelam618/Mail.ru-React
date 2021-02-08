@@ -1,5 +1,5 @@
 import React from 'react';
-import TitleWithCupbackground from '../TitleWithCupbackground/TitleWithCupbackground';
+import TitleWithCupbackground from '../TitleWithCupbackground';
 import './Content.scss';
 
 

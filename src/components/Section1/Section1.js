@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from './Header/Header';
-import Mainlogo from './Mainlogo/Mainlogo';
-import Mainimage from './Mainimage/Mainimage';
+import Header from './Header';
+import Mainlogo from './Mainlogo';
+import Mainimage from './Mainimage';
 
 function Section1 () {
   return (

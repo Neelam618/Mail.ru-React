@@ -1,6 +1,6 @@
 import React from 'react';
-import Content from '../Content/Content';
-import Sideimage from '../Sideimage/Sideimage';
+import Content from '../Content';
+import Sideimage from '../Sideimage';
 
 
 function Displayflex() {

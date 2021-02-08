@@ -1,6 +1,6 @@
 import React from 'react';
-import Displayflex from '../Displayflex/Displayflex';
-import Footer from '../Footer/Footer';
+import Displayflex from '../Displayflex';
+import Footer from '../Footer';
 import './DiagonalLineBg.scss';
 
 function DiagonalLineBg() {

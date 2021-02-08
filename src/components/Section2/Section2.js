@@ -1,5 +1,5 @@
 import React from 'react';
-import DiagonalLineBg from './DiagonalLineBg/DiagonalLineBg';
+import DiagonalLineBg from './DiagonalLineBg';
 
 
 function Section2 () {
