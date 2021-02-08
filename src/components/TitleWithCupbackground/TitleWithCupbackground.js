@@ -1,4 +1,5 @@
 import React from 'react';
+import './TitleWithCupbackground.scss';
 
 function TitleWithCupbackground() {
     return (

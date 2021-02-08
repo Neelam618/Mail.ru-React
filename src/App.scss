@@ -4,58 +4,11 @@ body {
   line-height: 1.8;
   letter-spacing: 1px;
 }
-.main {
-  
-    .title {
-      position: relative;
-      z-index: 11;
-      h1 {
-        font-size: 3.5rem;
-          .mail-ru {
-            color: #2381de;
-          }
-      }
-      img {
-        position: absolute;
-        top: -35px;
-        left: -84px;
-        z-index: -1;
-      }
-      .subtitle {
-        font-size: 1.5rem;
-        color: #c2c3c5;
-      }
-    }
-}
-
-
-@media (max-width:992px) {
-  .main {
-      .content {
-            .title {
-              width: 80%;
-              margin: 2em auto 0 auto;
-          }
-      }
-  }
-}
 
 @media (max-width:768px) {
   .main {
       .content {
-          .title {
-              h1 {
-                  font-size: 2.5rem;
-              }
-              img {
-                  transform: scale(0.5);
-                  top: -61px;
-                  left: -89px;
-              }
-              .subtitle {
-                  font-size: 1.4rem;
-              }
-          }
+          
       }
   }
 }
