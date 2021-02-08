@@ -1,14 +1,14 @@
 import React from 'react';
 import './App.scss';
 import Section1 from './components/Section-1/Section1';
-import DiagonalLineBg from './components/Section-2/DiagonalLineBg/DiagonalLineBg';
+import Section2 from './components/Section-2/Section2';
 
 
 function App() {
   return (
     <div>
       <Section1 />
-      <DiagonalLineBg />
+      <Section2 />
     </div>
   );
 }
