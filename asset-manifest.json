@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Mail.ru-React/static/css/main.27ef02c8.chunk.css",
-    "main.js": "/Mail.ru-React/static/js/main.d2e6ce98.chunk.js",
-    "main.js.map": "/Mail.ru-React/static/js/main.d2e6ce98.chunk.js.map",
+    "main.css": "/Mail.ru-React/static/css/main.725d2498.chunk.css",
+    "main.js": "/Mail.ru-React/static/js/main.28004af1.chunk.js",
+    "main.js.map": "/Mail.ru-React/static/js/main.28004af1.chunk.js.map",
     "runtime-main.js": "/Mail.ru-React/static/js/runtime-main.0335bfab.js",
     "runtime-main.js.map": "/Mail.ru-React/static/js/runtime-main.0335bfab.js.map",
     "static/css/2.809f38ef.chunk.css": "/Mail.ru-React/static/css/2.809f38ef.chunk.css",
     "static/js/2.9c445fe7.chunk.js": "/Mail.ru-React/static/js/2.9c445fe7.chunk.js",
     "static/js/2.9c445fe7.chunk.js.map": "/Mail.ru-React/static/js/2.9c445fe7.chunk.js.map",
     "index.html": "/Mail.ru-React/index.html",
-    "precache-manifest.2ad5982f4f07e0201dbfff34d84af60f.js": "/Mail.ru-React/precache-manifest.2ad5982f4f07e0201dbfff34d84af60f.js",
+    "precache-manifest.e3c24baf05b48825316b2e3407f97e3e.js": "/Mail.ru-React/precache-manifest.e3c24baf05b48825316b2e3407f97e3e.js",
     "service-worker.js": "/Mail.ru-React/service-worker.js",
     "static/css/2.809f38ef.chunk.css.map": "/Mail.ru-React/static/css/2.809f38ef.chunk.css.map",
-    "static/css/main.27ef02c8.chunk.css.map": "/Mail.ru-React/static/css/main.27ef02c8.chunk.css.map",
+    "static/css/main.725d2498.chunk.css.map": "/Mail.ru-React/static/css/main.725d2498.chunk.css.map",
     "static/js/2.9c445fe7.chunk.js.LICENSE.txt": "/Mail.ru-React/static/js/2.9c445fe7.chunk.js.LICENSE.txt",
     "static/media/all-cups-big.png": "/Mail.ru-React/static/media/all-cups-big.54b1d5a7.png",
     "static/media/astronaut.png": "/Mail.ru-React/static/media/astronaut.185e379c.png",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.0335bfab.js",
     "static/css/2.809f38ef.chunk.css",
     "static/js/2.9c445fe7.chunk.js",
-    "static/css/main.27ef02c8.chunk.css",
-    "static/js/main.d2e6ce98.chunk.js"
+    "static/css/main.725d2498.chunk.css",
+    "static/js/main.28004af1.chunk.js"
   ]
 }
