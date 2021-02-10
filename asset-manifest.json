@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mail.ru-React/static/css/main.548fa067.chunk.css",
+    "main.css": "/Mail.ru-React/static/css/main.8c2ecbdf.chunk.css",
     "main.js": "/Mail.ru-React/static/js/main.28004af1.chunk.js",
     "main.js.map": "/Mail.ru-React/static/js/main.28004af1.chunk.js.map",
     "runtime-main.js": "/Mail.ru-React/static/js/runtime-main.0335bfab.js",
@@ -9,10 +9,10 @@
     "static/js/2.9c445fe7.chunk.js": "/Mail.ru-React/static/js/2.9c445fe7.chunk.js",
     "static/js/2.9c445fe7.chunk.js.map": "/Mail.ru-React/static/js/2.9c445fe7.chunk.js.map",
     "index.html": "/Mail.ru-React/index.html",
-    "precache-manifest.fe09c645e927cf8ebd2df0b1bea68ee8.js": "/Mail.ru-React/precache-manifest.fe09c645e927cf8ebd2df0b1bea68ee8.js",
+    "precache-manifest.6d83b05c63410087f7a3548c5c61a9e9.js": "/Mail.ru-React/precache-manifest.6d83b05c63410087f7a3548c5c61a9e9.js",
     "service-worker.js": "/Mail.ru-React/service-worker.js",
     "static/css/2.809f38ef.chunk.css.map": "/Mail.ru-React/static/css/2.809f38ef.chunk.css.map",
-    "static/css/main.548fa067.chunk.css.map": "/Mail.ru-React/static/css/main.548fa067.chunk.css.map",
+    "static/css/main.8c2ecbdf.chunk.css.map": "/Mail.ru-React/static/css/main.8c2ecbdf.chunk.css.map",
     "static/js/2.9c445fe7.chunk.js.LICENSE.txt": "/Mail.ru-React/static/js/2.9c445fe7.chunk.js.LICENSE.txt",
     "static/media/all-cups-big.png": "/Mail.ru-React/static/media/all-cups-big.54b1d5a7.png",
     "static/media/astronaut.png": "/Mail.ru-React/static/media/astronaut.185e379c.png",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.0335bfab.js",
     "static/css/2.809f38ef.chunk.css",
     "static/js/2.9c445fe7.chunk.js",
-    "static/css/main.548fa067.chunk.css",
+    "static/css/main.8c2ecbdf.chunk.css",
     "static/js/main.28004af1.chunk.js"
   ]
 }
