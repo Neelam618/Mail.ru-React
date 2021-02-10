@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "437fd1e50a5179f9ca42c976155119db",
+    "revision": "3d2a949cbb13d193a99489e9a63e0a13",
     "url": "/Mail.ru-React/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mail.ru-React/static/css/2.809f38ef.chunk.css"
   },
   {
-    "revision": "7863c9927650a031e5a5",
-    "url": "/Mail.ru-React/static/css/main.725d2498.chunk.css"
+    "revision": "86b619412a123b18e9d6",
+    "url": "/Mail.ru-React/static/css/main.548fa067.chunk.css"
   },
   {
     "revision": "a5738f760518cee7e779",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mail.ru-React/static/js/2.9c445fe7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7863c9927650a031e5a5",
+    "revision": "86b619412a123b18e9d6",
     "url": "/Mail.ru-React/static/js/main.28004af1.chunk.js"
   },
   {
