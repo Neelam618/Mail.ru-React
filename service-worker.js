@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Mail.ru-React/precache-manifest.6d83b05c63410087f7a3548c5c61a9e9.js"
+  "/Mail.ru-React/precache-manifest.2b6fcbf607a9e3cf5a292853daa2a50d.js"
 );
 
 self.addEventListener('message', (event) => {
