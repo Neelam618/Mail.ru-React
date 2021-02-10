@@ -6,7 +6,7 @@ function Header() {
     return (
         <header>
             <div className="container">
-                <div className="topbar d-flex justify-content-between px-0 pt-3">
+                <div className="topbar d-flex justify-content-between px-0 pt-4">
                     <div className="top-logo"><img src={TopLogo} alt="Top Logo" /></div>
                     <div className="top-content">ux <span className="line"></span> ui</div>
                 </div>

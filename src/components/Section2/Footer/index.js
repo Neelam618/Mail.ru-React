@@ -4,7 +4,7 @@ import './Footer.scss'
 function Footer() {
     return (
       <div className="container">
-        <div className="d-flex justify-content-between footer px-0 p-5">
+        <div className="d-flex justify-content-between footer px-0 p-4">
           <div>ux / ui</div>
           <div>zen.design</div>
         </div>
